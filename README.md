@@ -20,15 +20,18 @@ Extract anywhere on your computer.
 add the path “$\grails-3.3.9\bin” on environment variables. #note in the $ put the directory where you extracted the file. this in windows
 
 Install mysql server.
+
 Download MySql installer from https://dev.mysql.com/downloads/windows/installer/8.0.html
 In the step of choosing a setup type, select custom and install only MySql Server 8.0.16 - X64 
 
 Run project
+
 Asegúrese de que su servidor Sql esté funcionando.
 Open MySQL 8.0 command line client, enter your database password, and execute this command “create database docentes;”.
 In the archive application.yml ubicated in sofware_test-3-con-DB/grails-app/conf, change user and password in the following code segment.
 
 dataSource:
+
 	pooled: true
 	jmxExport: true
 	driverClassName: com.mysql.cj.jdbc.Driver
