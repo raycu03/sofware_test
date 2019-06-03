@@ -57,8 +57,9 @@ dependencies {
     testCompile "org.grails:grails-web-testing-support"
     testRuntime "org.seleniumhq.selenium:selenium-htmlunit-driver:2.47.1"
     testRuntime "net.sourceforge.htmlunit:htmlunit:2.18"
-
+    runtime 'mysql:mysql-connector-java:8.0.15'
     compile "org.grails.plugins:views-json:1.0.2"
+    profile "org.grails.profiles:web-plugin"
 }
 
 bootRun {

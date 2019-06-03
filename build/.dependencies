@@ -24,6 +24,7 @@ dependencies:
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.197/bb391050048ca8ae3e32451b5a3714ecd3596a46/h2-1.4.197.jar
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.5.35/b4b27053b96b70b6e2f3b8de9f5338b0d386386b/tomcat-jdbc-8.5.35.jar
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/com.bertramlabs.plugins/asset-pipeline-grails/2.15.1/5312ac75d278699a56792a07b9bd39b84b580fa/asset-pipeline-grails-2.15.1.jar
+- file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.15/1cd928d0f1a93563993ce1d8b468217ea0d19b11/mysql-connector-java-8.0.15.jar
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.grails/grails-gorm-testing-support/1.1.5/d2094dc107d07a2be57ad27482223e88f661727a/grails-gorm-testing-support-1.1.5.jar
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.grails.plugins/geb/1.1.4/abd1d357effdd05e3bc4bdcdd747231e737596fb/geb-1.1.4.jar
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-testing-support/1.1.5/fdb41bd891fa6e4301e9508774574358e71f578b/grails-web-testing-support-1.1.5.jar
@@ -82,6 +83,7 @@ dependencies:
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/javax.el/el-api/2.1.2-b03/1ac087d9d1a632d2ff82fa1e8b6610aca025ff2a/el-api-2.1.2-b03.jar
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.5.35/69d0606072b31b57ba706d1ffc102064ad8f694b/tomcat-juli-8.5.35.jar
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/com.bertramlabs.plugins/asset-pipeline-core/2.15.1/7a03810517c8d4c241c686373f620e3ee92af1e7/asset-pipeline-core-2.15.1.jar
+- file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.6.1/d06d46ecfd92ec6d0f3b423b4cd81cb38d8b924/protobuf-java-3.6.1.jar
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.3.9/3369ad0eafe93adf9fbb1aa961444517a67e454e/grails-plugin-domain-class-3.3.9.jar
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-test/6.1.11.RELEASE/a9fcf315a2e8601abd914ce68cc7e774732468ed/grails-datastore-gorm-test-6.1.11.RELEASE.jar
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.grails/grails-testing-support/1.1.5/a91ceaf0c0620a677b850b6eca0d8272ac239b82/grails-testing-support-1.1.5.jar
@@ -178,4 +180,6 @@ dependencies:
 - file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-log/3.7.1/82ffa458f1f0e9f48c22bff31bbd1f3635b44fc7/jodd-log-3.7.1.jar
 profiles:
 - file:/C:/Users/anton/.m2/repository/org/grails/profiles/web/3.3.3/web-3.3.3.jar
+- file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.grails.profiles/web-plugin/3.3.0/2c56c515f7878d59c24a219cb61244f22bac0768/web-plugin-3.3.0.jar
 - file:/C:/Users/anton/.m2/repository/org/grails/profiles/base/3.3.3/base-3.3.3.jar
+- file:/C:/Users/anton/.gradle/caches/modules-2/files-2.1/org.grails.profiles/plugin/3.2.3/afaab4883fb3200eecb1b93789b45ed29ba1bbb9/plugin-3.2.3.jar
