@@ -3,6 +3,7 @@ proyecto grails Ray Antonio Narváez y Jeison Alonso Hernández y Jaime Uriel Zu
 
 Download Project
 --------------Way 1----------------
+
 If you haven't downloaded Git already, download and install Git through this link https://git-scm.com/downloads.
 Once downloaded and installed, open Git Bash.
 select the directory where you want download this project, use cd later the directory.
@@ -10,6 +11,7 @@ Enter the following line in Git Bash:
  git clone https://github.com/raycu03/sofware_test-3-con-DB.git
 
 --------------Way 2----------------
+
 Download as a zip and extract anywhere on your computer.
 Download grails.
 
