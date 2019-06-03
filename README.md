@@ -2,6 +2,7 @@
 proyecto grails Ray Antonio Narváez y Jeison Alonso Hernández y Jaime Uriel Zuluaga Osorio
 
 Download Project
+
 --------------Way 1----------------
 
 If you haven't downloaded Git already, download and install Git through this link https://git-scm.com/downloads.
